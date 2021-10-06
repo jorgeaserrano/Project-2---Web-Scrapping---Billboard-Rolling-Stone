@@ -1,1 +1,2 @@
-# Project-2---Web-Scrapping---Billboard-Rolling-Stone
+# SMU_PROJECT2_BILLBOARD100
+SMU project 2
